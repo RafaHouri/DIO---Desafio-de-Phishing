@@ -13,7 +13,7 @@
 - Método de ataque: Site Cloner
 - URL para clone: http://www.facebook.com
 
-## Caminho
+* **Procedimento:**
 settoolkit > 1) Social-Engineering Attacks > 2) Website Attack Vetors > 3) Crdential Harvester Attack Method > 2) Site Cloner
 
 ![Website Attack Vectors](https://github.com/user-attachments/assets/113069c1-5d0f-4577-bd19-106427ea8dd8)
