@@ -1,5 +1,3 @@
-# DIO---Desafio-de-Phishing
-
 # Phishing para captura de senhas do Facebook
 
 ## Ferramentas
